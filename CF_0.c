@@ -1,4 +1,5 @@
 //ver 0.01
+//add by lkh 210401
 #include <errno.h>
 #include <signal.h>
 #include <stdio.h>
